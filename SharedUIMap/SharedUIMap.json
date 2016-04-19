@@ -1,0 +1,54 @@
+{
+
+	"###LOGIN_PAGE_ELEMENTS###": "Referenced By xpath locator",
+
+	"TxtField_login_Email": ".//*[@id='UserSignInMobile_uxEmailAddress']",
+
+	"TxtField_login_Password": ".//*[@id='UserSignInMobile_uxPassword']",
+
+	"Btn_SignInPage_SignIn": ".//*[@id='UserSignInMobile_uxSignInPanel']/div/button",
+
+	"###REGISTRATION_PAGE_ELEMENTS###": "Referenced By xpath locator",
+
+	"TxtField_RegisterPage_FirstName": ".//*[@id='uxFirstName']",
+
+	"TxtField_RegisterPage_LastName": ".//*[@id='uxLastName']",
+
+	"TxtField_RegisterPage_Email": ".//*[@id='uxEmailAddress']",
+
+	"TxtField_RegisterPage_Password": ".//*[@id='uxPassword']",
+
+	"Btn_RegisterPage_RegisterNow": ".//*[@id='uxSignUpNowButton']",
+
+	"###MAIN_PAGE_ELEMENTS###": "Referenced by Xpath Locator",
+
+	"Btn_Mainpage_SignIn": ".//*[@id='mainform']/nav/div[3]/div/button",
+
+	"Btn_MainPage_Register": ".//*[@id='mainform']/nav/div[3]/div/a",
+
+	"Btn_MainPage_SearchMagnifyGlss": ".//*[@id='mainform']/nav/div[2]",
+
+	"Btn_MainPage_PropertySearch": ".//*[@id='content']/div/div/div[1]/a",
+
+	"###RESIDENTIALSEARCH_PAGE_ELEMENTS###": "Referenced by Xpath Locator",
+
+	"Btn_SearchPage_Search": ".//*[@id='SearchTabResidential']/div/div[2]/div/a",
+
+	"###RESULTS_PAGE_ELEMENTS###": "Referenced by Xpath Locator",
+
+	"Btn_ResultsPage_SaveProperty": ".//*[@id='content']/div/div[3]/div[2]/button",
+
+	"Btn_ResultsPage_SaveSearch": ".//*[@id='mainform']/nav/div[3]/a/img",
+
+	"###CREATESAVEDSEARCH_WINDOW_ELEMENTS": "Referenced by xpath locator",
+
+	"TxtField_SaveSearchWindow_Name": ".//*[@id='SearchName']",
+
+	
+
+	"###MYACCOUNT_DROPDOWN_ELEMENTS###": "Referenced by Xpath Locator",
+
+	"Dropdown_MainPage_MyAccount": ".//*[@id='account-dropdown']"
+
+
+}
