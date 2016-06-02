@@ -38,17 +38,36 @@
 
 	"Btn_ResultsPage_SaveProperty": ".//*[@id='content']/div/div[3]/div[2]/button",
 
-	"Btn_ResultsPage_SaveSearch": ".//*[@id='mainform']/nav/div[3]/a/img",
+	"Btn_ResultsPage_SaveSearch": ".//*[@id='content']/div/div[2]/div[1]/div[1]/button",
 
 	"###CREATESAVEDSEARCH_WINDOW_ELEMENTS": "Referenced by xpath locator",
 
 	"TxtField_SaveSearchWindow_Name": ".//*[@id='SearchName']",
 
-	
+	"Dropdown_SaveSearchWindow_EmailFrequency": ".//*[@id='EmailFreq']",
+
+	"Dropdown_SaveSearchWindow_EmailFrequencyWeekly": ".//*[@id='EmailFreq']/option[3]",
+
+	"Btn_SaveSearchWindow_SaveSearch": ".//*[@id='uxSaveSearchesModal']/div/div[2]/div/div/div[4]/button",
 
 	"###MYACCOUNT_DROPDOWN_ELEMENTS###": "Referenced by Xpath Locator",
 
-	"Dropdown_MainPage_MyAccount": ".//*[@id='account-dropdown']"
+	"Dropdown_MainPage_MyAccount": ".//*[@id='account-dropdown']",
+
+	"Btn_MtAccountDropdown_AccountSettings": ".//*[@id='navigation_0_UserState_uxAccountSettingsButton']",
+
+	"###PROFILE_PAGE_ELEMENTS###": "Referenced by Xpath Locator",
+
+	"Btn_ProfilePage_SaveSearches": ".//*[@id='content']/div/div/div[2]/section/ul/li[2]/a",
+
+	"Text_ProfilePageSaveSearches_NoSavedSearch": ".//*[@id='content']/div/div/div[1]/span",
+
+	"###SAVEDSEARCHES_PAGE_ELEMENTS###": "Referenced by Xpath Locator"
+
+
+
+
+
 
 
 }
